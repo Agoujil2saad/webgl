@@ -1,0 +1,32 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "just a first playaroud webgl",
+  "main": "main.js",
+  "dependencies": {
+    "angle-normals": "^1.0.0",
+    "glsl-noise": "^0.0.0",
+    "glslify": "^6.1.0",
+    "icosphere": "^1.0.0",
+    "regl-camera": "^2.1.1",
+    "regl": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agoujil2saad/webgl.git"
+  },
+  "keywords": [
+    "webgl",
+    "node"
+  ],
+  "author": "agoujil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agoujil2saad/webgl/issues"
+  },
+  "homepage": "https://github.com/Agoujil2saad/webgl#readme"
+}
